@@ -1,0 +1,18 @@
+.buttonEl {
+  background-color: white;
+  border: 1px solid #db1c48;
+  border-radius: 15px;
+  width: 5vw;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.activeButtonEl {
+  background-color: #db1c48;
+  border: 1px solid #db1c48;
+  color: white;
+  border-radius: 15px;
+  width: 5vw;
+  padding: 5px;
+  cursor: pointer;
+}
